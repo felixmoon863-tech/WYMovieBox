@@ -1,0 +1,150 @@
+{
+    "videos": {
+        "action": [
+            {
+                "title": "Action Movie 1: The Matrix",
+                "thumb": "https://img.youtube.com/vi/vL95W9v8s8k/hqdefault.jpg",
+                "src": "https://www.youtube.com/embed/vL95W9v8s8k?autoplay=1"
+            },
+            {
+                "title": "Action Movie 2: Inception",
+                "thumb": "https://img.youtube.com/vi/YoHD9XEInc0/hqdefault.jpg",
+                "src": "https://www.youtube.com/embed/YoHD9XEInc0?autoplay=1"
+            },
+            {
+                "title": "Action Movie 2: Inception",
+                "thumb": "https://img.youtube.com/vi/YoHD9XEInc0/hqdefault.jpg",
+                "src": "https://www.youtube.com/embed/YoHD9XEInc0?autoplay=1"
+            },
+            {
+                "title": "Action Movie 2: Inception",
+                "thumb": "https://img.youtube.com/vi/YoHD9XEInc0/hqdefault.jpg",
+                "src": "https://www.youtube.com/embed/YoHD9XEInc0?autoplay=1"
+            },
+            {
+                "title": "Action Movie 2: Inception",
+                "thumb": "https://img.youtube.com/vi/YoHD9XEInc0/hqdefault.jpg",
+                "src": "https://www.youtube.com/embed/YoHD9XEInc0?autoplay=1"
+            },
+            {
+                "title": "Action Movie 2: Inception",
+                "thumb": "https://img.youtube.com/vi/YoHD9XEInc0/hqdefault.jpg",
+                "src": "https://www.youtube.com/embed/YoHD9XEInc0?autoplay=1"
+            },
+            {
+                "title": "Action Movie 2: Inception",
+                "thumb": "https://img.youtube.com/vi/YoHD9XEInc0/hqdefault.jpg",
+                "src": "https://www.youtube.com/embed/YoHD9XEInc0?autoplay=1"
+            },
+            {
+                "title": "Action Movie 2: Inception",
+                "thumb": "https://img.youtube.com/vi/YoHD9XEInc0/hqdefault.jpg",
+                "src": "https://www.youtube.com/embed/YoHD9XEInc0?autoplay=1"
+            },
+            {
+                "title": "Action Movie 2: Inception",
+                "thumb": "https://img.youtube.com/vi/YoHD9XEInc0/hqdefault.jpg",
+                "src": "https://www.youtube.com/embed/YoHD9XEInc0?autoplay=1"
+            },
+            {
+                "title": "Action Movie 2: Inception",
+                "thumb": "https://img.youtube.com/vi/YoHD9XEInc0/hqdefault.jpg",
+                "src": "https://www.youtube.com/embed/YoHD9XEInc0?autoplay=1"
+            }
+        ],
+        "drama": [
+            {
+                "title": "Drama Movie 1: The Social Network",
+                "thumb": "https://img.youtube.com/vi/lB95sN3y5K4/hqdefault.jpg",
+                "src": "https://www.youtube.com/embed/lB95sN3y5K4?autoplay=1"
+            }
+        ],
+        "cartoon": [
+            {
+                "title": "Cartoon 1: Toy Story (Clip)",
+                "thumb": "https://img.youtube.com/vi/ZZv1K7s2kI8/hqdefault.jpg",
+                "src": "https://www.youtube.com/embed/ZZv1K7s2kI8?autoplay=1"
+            }
+        ],
+        "romance": [
+            {
+                "title": "Romance 1: La La Land (Trailer)",
+                "thumb": "https://img.youtube.com/vi/jemL1vT4sXo/hqdefault.jpg",
+                "src": "https://www.youtube.com/embed/jemL1vT4sXo?autoplay=1"
+            }
+        ],
+        "myanmar": [
+            {
+                "title": "Myanmar Movie 1: ရန်သူမျိုးငါ့သွေး",
+                "thumb": "https://img.youtube.com/vi/vKx2Xm5qfM4/hqdefault.jpg",
+                "src": "https://www.youtube.com/embed/vKx2Xm5qfM4?autoplay=1"
+            }
+        ],
+        "trending": [
+             {
+                "title": "Trending Hit 1: Mad Max Trailer",
+                "thumb": "https://img.youtube.com/vi/hEJnMQG9ev8/hqdefault.jpg",
+                "src": "https://www.youtube.com/embed/hEJnMQG9ev8?autoplay=1"
+            },
+             {
+                "title": "Trending Hit 2: The Matrix Reloaded Trailer",
+                "thumb": "https://img.youtube.com/vi/qY_B1S448Dk/hqdefault.jpg",
+                "src": "https://www.youtube.com/embed/qY_B1S448Dk?autoplay=1"
+            }
+        ]
+    },
+    "translations": {
+        "english": {
+            "title": "WY MovieBox",
+            "selectMovie": "Select a Movie",
+            "nowPlaying": "Play Now",
+            "noContent": "No Content Available",
+            "trendingTitle": "Trending Movies",
+            "favoritesTitle": "My Favorites",
+            "noFavorites": "No favorite movies added yet.",
+            "profileTitle": "User Profile",
+            "settingsTitle": "Settings",
+            "languageLabel": "Language:",
+            "themeLabel": "Theme:",
+            "resetData": "Reset App Data",
+            "adultContent": "Adult Content (18+)",
+            "langMyanmar": "Myanmar",
+            "langEnglish": "English",
+            "navHome": "Home",
+            "navTrending": "Trending",
+            "navFavorites": "Favorites",
+            "navProfile": "Profile",
+            "action": "Action",
+            "drama": "Drama",
+            "cartoon": "Cartoon",
+            "romance": "Romance",
+            "myanmar": "Myanmar"
+        },
+        "myanmar": {
+            "title": "WY ရုပ်ရှင်သေတ္တာ",
+            "selectMovie": "ရုပ်ရှင်ကို ရွေးချယ်ပါ",
+            "nowPlaying": "ချက်ချင်းကြည့်ပါ",
+            "noContent": "လက်ရှိ Data များ မရှိပါ",
+            "trendingTitle": "ခေတ်စားနေသော ရုပ်ရှင်များ",
+            "favoritesTitle": "အနှစ်သက်ဆုံးများ",
+            "noFavorites": "အနှစ်သက်ဆုံး ရုပ်ရှင်များ မထည့်ရသေးပါ",
+            "profileTitle": "အသုံးပြုသူအချက်အလက်",
+            "settingsTitle": "ချိန်ညှိချက်များ",
+            "languageLabel": "ဘာသာစကား:",
+            "themeLabel": "မျက်နှာပြင်ပုံစံ:",
+            "resetData": "App Data များ ရှင်းလင်းပါ",
+            "adultContent": "လူကြီးကားများကြည့်ရန် (18+)",
+            "langMyanmar": "မြန်မာ",
+            "langEnglish": "အင်္ဂလိပ်",
+            "navHome": "မူလစာမျက်နှာ",
+            "navTrending": "ခေတ်စားနေသည်",
+            "navFavorites": "အနှစ်သက်ဆုံး",
+            "navProfile": "အသုံးပြုသူ",
+            "action": "လှုပ်ရှားမှု",
+            "drama": "ဒရာမာ",
+            "cartoon": "ကာတွန်း",
+            "romance": "အချစ်",
+            "myanmar": "မြန်မာ"
+        }
+    }
+}
