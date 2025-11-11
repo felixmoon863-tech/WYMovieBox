@@ -1,0 +1,58 @@
+/* Custom CSS styles if needed, mainly for non-tailwind things or specific overrides */
+
+/* Hide scrollbar for category menu but allow scrolling */
+#menu-bar::-webkit-scrollbar {
+    display: none;
+}
+#menu-bar {
+    -ms-overflow-style: none;  /* IE and Edge */
+    scrollbar-width: none;  /* Firefox */
+}
+
+/* Base Dark Theme (Default) */
+.bg-darkbg {
+    background-color: #1A1A1A; 
+}
+.bg-midbg {
+    background-color: #262626; 
+}
+.text-primary {
+    color: #FFD700; 
+}
+
+/* !!! FIX: Active Category Button - Blue Color */
+.active-category-blue {
+    background-color: #3B82F6 !important; /* Tailwind blue-500 */
+    color: white !important;
+}
+
+/* Light Theme Classes (unchanged, but adjusted for new blue color if needed) */
+.light-mode .bg-darkbg {
+    background-color: #F8F8F8; 
+}
+.light-mode .bg-midbg {
+    background-color: #FFFFFF; 
+}
+.light-mode .text-white {
+    color: #1A1A1A; 
+}
+.light-mode .text-primary {
+    color: #CC9900; 
+}
+.light-mode .bg-gray-800 {
+    background-color: #E5E5E5 !important; 
+    color: #1A1A1A !important;
+}
+.light-mode .bg-gray-800:hover {
+    background-color: #CCCCCC !important;
+}
+.light-mode .nav-btn.text-gray-400 {
+    color: #6B7280 !important;
+}
+.light-mode #header-sticky {
+    border-color: #E5E5E5;
+}
+.light-mode .active-category-blue {
+    background-color: #1D4ED8 !important; /* Darker blue for light theme */
+    color: white !important;
+}
